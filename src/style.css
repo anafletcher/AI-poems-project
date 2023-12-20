@@ -30,6 +30,10 @@ footer {
   margin-top: 30px;
 }
 
+a {
+  color: rgb(50, 36, 143);
+}
+
 .container {
   margin: 120px;
   max-width: 600px;
@@ -66,6 +70,6 @@ footer {
   box-shadow: 0px 20px 60px rgba(39, 33, 66, 0.03);
 }
 
-a {
+.poem strong {
   color: rgb(50, 36, 143);
 }
