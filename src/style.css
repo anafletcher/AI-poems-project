@@ -1,4 +1,9 @@
 body {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
   background-color: rgb(242, 229, 248);
   font-family: fantasy;
 }
@@ -39,7 +44,7 @@ a {
 
 .container {
   margin: 120px;
-  max-width: 600px;
+  max-width: 50%;
 }
 
 .theme {
